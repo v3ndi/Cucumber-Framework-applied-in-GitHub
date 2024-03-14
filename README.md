@@ -24,9 +24,11 @@ To get started with this project, follow these steps:
 1.4  Then A count of matching results should be displayed
 1.5  Verifies the facebook project as the first result
 
-![image](https://github.com/v3ndi/Cucumber-Framework-applied-in-GitHub/assets/83697980/44ee2c32-1d50-490a-a1ae-4a10e50e31ba)
-
-
 2.1 User is a guest (not logged in) on GitHub's landing page
 2.2 The user clicks the About button in the landing page footer
 2.3 Confirm that the content on the page provides information about GitHub's purpose, mission, and related details
+
+![image](https://github.com/v3ndi/Cucumber-Framework-applied-in-GitHub/assets/83697980/44ee2c32-1d50-490a-a1ae-4a10e50e31ba)
+
+
+
